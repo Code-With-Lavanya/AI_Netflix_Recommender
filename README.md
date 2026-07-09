@@ -15,7 +15,7 @@ The application retrieves relevant titles using semantic search and generates pe
 
 # 🚀 Live Demo
 
-🔗 **Streamlit App:** YOUR_STREAMLIT_LINK
+🔗 **Streamlit App:** https://ai-netflix-recommender-lavanya.streamlit.app/
 
 ---
 
