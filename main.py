@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-df = pd.read_csv("C:\\Users\\Lucky\\Downloads\\archive\\netflix_movies_detailed_up_to_2025.csv")
+df = pd.read_csv("netflix_movies.csv")
 
 df = df.dropna(subset=["description"])
 df = df.drop_duplicates(subset=["title"])
